@@ -1,5 +1,8 @@
 # program-uas
 //GAME LEMPAR DADU
+//Link Youtube https://youtu.be/O7ULb0btF-M
+
+
 #include <iostream>
 #include <stdlib.h>
 #include <conio.h>
